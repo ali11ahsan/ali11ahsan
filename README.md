@@ -1,7 +1,7 @@
 # Ali Ahsan
 
 ## About Me
-I am a Software Engineering student at ABC University.
+I am a Software Engineering student at University of Engineering And Technology Lahore.
 Passionate about building web applications.
 Currently learning full-stack development.
 
@@ -23,9 +23,9 @@ A command-line task management tool built with Python.
 A personal portfolio built with HTML, CSS, and JavaScript.
 
 ## Education
-BS Software Engineering, ABC University, 2024
+BS Software Engineering, University of Engineering And Technology Lahore, 2025
 
 ## Contact
-- Email: your.email@example.com
+- Email: aliahsan53738@gmail.com
 - LinkedIn: [Profile](https://linkedin.com/in/yourusername)
 - GitHub: [@ali11ahsan](https://github.com/ali11ahsan)
