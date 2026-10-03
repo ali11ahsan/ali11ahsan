@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ali Ahsan
 
-<!--
-**ali11ahsan/ali11ahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineering student at ABC University.
+Passionate about building web applications.
+Currently learning full-stack development.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python, JavaScript, Java |
+| Frontend | HTML5, CSS3, React |
+| Backend | Flask, Django |
+| Tools | Git, GitHub, VS Code |
+
+## Featured Projects
+
+### Project 1: Task Manager CLI
+A command-line task management tool built with Python.
+
+### Project 2: Portfolio Website
+A personal portfolio built with HTML, CSS, and JavaScript.
+
+## Education
+BS Software Engineering, ABC University, 2024
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: [Profile](https://linkedin.com/in/yourusername)
+- GitHub: [@ali11ahsan](https://github.com/ali11ahsan)
